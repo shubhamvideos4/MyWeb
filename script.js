@@ -1,3 +1,3 @@
-function showMessage() {
-    alert("Hello from JavaScript!");
-}
+document.addEventListener("DOMContentLoaded", () => {
+    console.log("Website loaded successfully!");
+});
